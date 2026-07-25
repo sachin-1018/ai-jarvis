@@ -1,0 +1,6 @@
+{
+  "name": "AI Jarvis",
+  "description": "Personal AI Assistant with Multi-Provider Online & Offline Reasoning, Phone Control, Voice, Screen Analysis, and Floating HUD. Developed by Sachin Solunke.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

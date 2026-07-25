@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AI Jarvis</string>
+    <string name="accessibility_service_description">AI Jarvis Screen Inspector &amp; Voice Controller Service for on-screen text reading, Chrome analysis, and phone automation.</string>
+</resources>
